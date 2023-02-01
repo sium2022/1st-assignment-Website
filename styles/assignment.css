@@ -84,11 +84,13 @@ font-size: 35px;
 }
 
 .my-plan-list{
-
+display: flex;
+gap: 180px;
+margin: 130px 230px;
 }
 
 .plan{
-    
+
 }
 .plan-title{
 
