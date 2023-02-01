@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
     font-family: 'Work Sans', sans-serif;
 }
 
@@ -46,5 +46,54 @@
 }
 
 .img-1{
+
+}
+
+.text{
+    margin-top: 360px;
+    margin-right: 90px;
+    /* justify-items: end; */
+}
+.text-1{
+    font-weight: 700px;
+    font-size: 40px;
+}
+
+.text-2{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 24px;
+}
+.li-1{
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+
+.my-plan{
+display: block;
+text-align: center;
+font-weight: 700;
+font-size: 35px;
+}
+
+.my-plan-title{
+
+}
+
+.my-plan-list{
+
+}
+
+.plan{
     
+}
+.plan-title{
+
+}
+
+.plan-description{
+
 }
