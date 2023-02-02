@@ -126,3 +126,29 @@ align-items: center;
     background-image: url("/images/watch.png");
     background-repeat: no-repeat;
 }
+
+.footer-style{
+    padding: 100px 0px 300px 200px;
+    background-color: #151414;
+}
+
+.right-side-text{
+
+}
+
+.left-side-box{
+
+}
+
+.footer-title{
+font-weight: 700;
+font-size: 45px;
+color: #FFFFFF;
+}
+
+.footer-description{
+    color: aliceblue;
+    margin-top: 15px;
+    font-weight: 300;
+    font-size: 16px;
+}
