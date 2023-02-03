@@ -1,6 +1,5 @@
 *{
     margin: 0;
-    /* font-family: 'Open Sans', sans-serif; */
     font-family: 'Work Sans', sans-serif;
 }
 
@@ -9,7 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: end;
-    background-image: url('../images/banner/banner2.png');
+    background-image: url('../images/banner2.png');
     padding: 250px 200px;
 }
 .banner-title{ 
@@ -46,10 +45,6 @@
     justify-content: space-around;
 }
 
-/* .img-1{
-
-} */
-
 .text{
     margin-top: 360px;
     margin-right: 90px;
@@ -71,11 +66,6 @@
     font-size: 16px;
     color: #444343;
 }
-
-/* .my-plan{
-
-} */
-
 .my-plan-title{
     display: block;
     text-align: center;
@@ -138,14 +128,6 @@ align-items: center;
     justify-content: space-around;
 }
 
-/* .right-side-text{
-
-} */
-
-/* .left-side-box{
-
-} */
-
 .footer-title{
 font-weight: 700;
 font-size: 45px;
@@ -202,6 +184,3 @@ color: #FFFFFF;
     margin-left: 18px;
     margin-right: 18px;
 }
-
-/* font-weight: 600;
-font-size: 25px; */
